@@ -1,3 +1,3 @@
 # Demo
 
-Some snazzy description for git.
+Some snazzy description for git!
