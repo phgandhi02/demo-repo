@@ -1,2 +1,3 @@
-# demo-repo
-Demo for learning github
+# Demo
+
+Some snazzy description for git.
